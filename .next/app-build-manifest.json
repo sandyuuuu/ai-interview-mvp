@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-17abec1bd4bca978.js",
+      "static/css/711379ee9e24bf48.css",
+      "static/chunks/commons-344f9eeb3134ebae.js",
+      "static/chunks/main-app-6dd21c6802ffa26d.js",
+      "static/chunks/app/_not-found/page-f6f19f75726b56ed.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-17abec1bd4bca978.js",
+      "static/css/711379ee9e24bf48.css",
+      "static/chunks/commons-344f9eeb3134ebae.js",
+      "static/chunks/main-app-6dd21c6802ffa26d.js",
+      "static/chunks/app/layout-5b1c06cc33d203f4.js"
+    ],
+    "/review/page": [
+      "static/chunks/webpack-17abec1bd4bca978.js",
+      "static/css/711379ee9e24bf48.css",
+      "static/chunks/commons-344f9eeb3134ebae.js",
+      "static/chunks/main-app-6dd21c6802ffa26d.js",
+      "static/chunks/app/review/page-e03fe57ba8645f39.js"
+    ],
+    "/interview/page": [
+      "static/chunks/webpack-17abec1bd4bca978.js",
+      "static/css/711379ee9e24bf48.css",
+      "static/chunks/commons-344f9eeb3134ebae.js",
+      "static/chunks/main-app-6dd21c6802ffa26d.js",
+      "static/chunks/app/interview/page-25c4d20e4fc07caf.js"
+    ],
+    "/notes/page": [
+      "static/chunks/webpack-17abec1bd4bca978.js",
+      "static/css/711379ee9e24bf48.css",
+      "static/chunks/commons-344f9eeb3134ebae.js",
+      "static/chunks/main-app-6dd21c6802ffa26d.js",
+      "static/chunks/app/notes/page-6162a778c896ee71.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-17abec1bd4bca978.js",
+      "static/css/711379ee9e24bf48.css",
+      "static/chunks/commons-344f9eeb3134ebae.js",
+      "static/chunks/main-app-6dd21c6802ffa26d.js",
+      "static/chunks/app/page-fc61dd19033f9346.js"
+    ],
+    "/question-bank/page": [
+      "static/chunks/webpack-17abec1bd4bca978.js",
+      "static/css/711379ee9e24bf48.css",
+      "static/chunks/commons-344f9eeb3134ebae.js",
+      "static/chunks/main-app-6dd21c6802ffa26d.js",
+      "static/chunks/app/question-bank/page-4f9504aa898b58dd.js"
+    ]
+  }
+}
